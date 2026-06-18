@@ -37,6 +37,11 @@ https://docs.docker.com/engine/install/ubuntu/
 
 https://github.com/hkshitesh/API-TEST-AUTOMATION-NEWMAN
 
+## Snarqube Container command
+
+docker run -d --name sonarqube -p 9000:9000 sonarqube:lts-community
+
+
 
 
 
