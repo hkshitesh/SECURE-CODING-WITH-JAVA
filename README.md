@@ -47,6 +47,7 @@ sudo docker run -d --name sonarqube -p 9000:9000 sonarqube:lts-community
 
 ## QUIZ 5 Lead Board
 
+<img width="883" height="616" alt="image" src="https://github.com/user-attachments/assets/cf4af9ad-c30a-4285-a614-4d3a0b2596ff" />
 
 
 
