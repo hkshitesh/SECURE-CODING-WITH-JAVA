@@ -33,6 +33,10 @@ https://dc-lab.signin.aws.amazon.com/console
 https://docs.docker.com/engine/install/ubuntu/
 
 
+## GIT REPO FOR NEWMAN
+
+https://github.com/hkshitesh/API-TEST-AUTOMATION-NEWMAN
+
 
 
 
